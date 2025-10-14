@@ -1,7 +1,7 @@
 -- AAI-01 UNIVERSAL TOWER TROLL SCRIPT
 -- GitHub: https://raw.githubusercontent.com/ABSOLUTE-01/Roblox-Scripts/main/UniversalTowerTroll.lua
 
-local AAI_UILib = loadstring(game:HttpGet("https://raw.githubusercontent.com/ABSOLUTE-01/Roblox-Scripts/main/AAI_UILib.lua"))()
+local AAI_UILib = loadstring(game:HttpGet("https://raw.githubusercontent.com/ggfddfdd763-cyber/Roblox/refs/heads/main/menu.lua"))()
 
 -- Основные сервисы
 local Players = game:GetService("Players")

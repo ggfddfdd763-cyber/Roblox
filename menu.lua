@@ -6,7 +6,7 @@ local AAI_UILib = {}
 
 -- Конфигурация
 AAI_UILib.Config = {
-    GitHubRawURL = "https://raw.githubusercontent.com/ABSOLUTE-01/Roblox-Scripts/main/",
+    GitHubRawURL = "https://raw.githubusercontent.com/ggfddfdd763-cyber/Roblox/refs/heads/main/",
     Theme = {
         Primary = Color3.fromRGB(255, 50, 50),
         Secondary = Color3.fromRGB(40, 40, 40),
